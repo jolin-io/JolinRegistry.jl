@@ -1,0 +1,5 @@
+name = "JolinRegistry"
+uuid = "d8b8f4a5-446a-4289-bdd3-2aada5c65e7a"
+repo = "git@github.com:jolin-io/JolinRegistry.jl.git"
+
+[packages]
