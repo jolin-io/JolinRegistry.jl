@@ -5,6 +5,11 @@ HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
 HypertextLiteral = "ac1192a8-f4b3-4bfe-ba22-af5b92cd3ab2"
 JSON3 = "0f8b85d8-7281-11e9-16c2-39a750bddbf1"
 
+["0.1.16-0"]
+Continuables = "79afa230-ca09-11e8-120b-5decf7bf5e25"
+PlutoHooks = "0ff47ea0-7a50-410d-8455-4348d5de0774"
+PlutoLinks = "0ff47ea0-7a50-410d-8455-4348d5de0420"
+
 ["0.1.6-0"]
 Git = "d7ba0133-e1db-5d97-8f8c-041e4b3a1eb2"
 
